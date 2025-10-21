@@ -54,4 +54,12 @@ CC: Class C Users Specification
 * Focus on usability first with minimal visual design requirements
 * Lightweight performance with simplified structure
 * Prioritize accessibility and system efficiency
-* Include a Packaging and Code Minimizing Tool to combine the project into a single, compact file for deployment
+
+3- File Naming
+- name all core files to core.x, and final singel file projects as app.x
+- databse and tables all lowercase and use only '_' for spacing
+
+4- App Packager
+- Create a bash script to package the whol app in a single file app.x
+- it will have all project files in the header
+- it will minize all the files, combine it and update the links and routs
