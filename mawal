@@ -1,0 +1,57 @@
+Mawal Coding Specification using Aseel Language
+
+* Centralized Core for Project Operations
+* Ensure Patternized Data and Attributes
+* Modular Build-up for All Project Requirements
+* Use as Few Files as Possible
+
+1. Introduction
+   The Mawal Coding Specification is built on the Aseel Language, which defines a structured framework for developing Machine Learning Ready Systems using the pattern:
+   . → I → O → A → H
+
+This pattern represents the natural evolution of intelligence — from raw input to interconnected understanding. Each stage defines how data, code, and knowledge should evolve and interact across the system.
+
+. (dot): Raw Input or Data Source
+This is the initial state — the starting point where data is unstructured or unlabeled, such as text, images, audio, or logs.
+It represents the first byte from the user’s end that triggers all subsequent operations, or the underlying reason why data is structured in a specific way.
+For example, the Egyptian ID number embeds the date of birth within its structure — a design that allows the ID itself to memorize part of the information it represents.
+
+I: Feature Definition
+At this stage, raw data becomes meaningful. It is labeled, categorized, and transformed into features that represent essential characteristics.
+In code, this step defines the type, identity, and purpose of each element within the system.
+
+O: Program Module Core
+Here, structure and relationships emerge.
+Modules are organized based on system needs and the targeted user segment (A Class, B Class, or C Class).
+Relationships between features and their logical connections are clearly defined, ensuring that every module serves a coherent purpose within the larger system.
+
+A: Application Model
+This stage represents action and operation.
+The system’s models, workflows, or functions are trained, validated, and tested — transforming from structured potential into working intelligence.
+The program becomes active and begins to interact dynamically with users and data.
+
+H: Product Unit
+This identifies the final, deployable unit within the project.
+It is the stage of integration — where all parts come together into a functional and configurable product.
+Each unit can be adapted, evolved, or extended according to future requirements without breaking the overall system.
+
+2. Build Options
+
+CA: Class A Users Specification
+
+* Prioritize high-quality usability and refined user experience
+* Extensive use of animation, motion, and advanced UX behavior
+* Visual and functional excellence for premium audiences
+
+CB: Class B Users Specification
+
+* Balanced approach between quality and usability
+* Practical design with efficient performance and maintainable structure
+* Balanced ML optimization for cost and experience
+
+CC: Class C Users Specification
+
+* Focus on usability first with minimal visual design requirements
+* Lightweight performance with simplified structure
+* Prioritize accessibility and system efficiency
+* Include a Packaging and Code Minimizing Tool to combine the project into a single, compact file for deployment
